@@ -1,0 +1,14 @@
+{
+  "name": "ionicUI",
+  "app_id": "59bfcf30",
+  "v2": true,
+  "typescript": true,
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
